@@ -4,6 +4,5 @@ azure-identity
 sqlalchemy
 sqlalchemy.orm
 flask
-pyodbc
 pymysql
 pymssql

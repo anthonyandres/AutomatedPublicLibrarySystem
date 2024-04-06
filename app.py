@@ -1,7 +1,6 @@
 # for some reason database import on line 7 wasnt working, added these to fix -Mayuran
 import sys
 import os
-import pandas as pd
 
 from sqlalchemy import text
 import pymssql
