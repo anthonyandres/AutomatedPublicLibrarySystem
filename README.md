@@ -8,7 +8,7 @@ preferences.
 
 'Simple Library Management System powered by Flask'
 
-Hosted Link: https://automatedpubliclibrary.azurewebsites.net/ 
+Hosted Link (NO LONGER WORKING): https://automatedpubliclibrary.azurewebsites.net/ 
 
 ## Technologies and Languages Used
 - HTML
